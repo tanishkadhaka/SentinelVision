@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+*.pt
+logs/*.csv
+logs/*.json
+!logs/.gitkeep
+*.mp4
+*.avi
+*.mov
+.vscode/
+
+# personal working notes, not for the public repo
+DECISIONS.md
+PROGRESS.md
+ISSUES_AND_LEARNINGS.md
+INTERVIEW_GUIDE.md
+.DS_Store
